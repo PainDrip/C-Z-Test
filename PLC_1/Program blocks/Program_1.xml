@@ -47,7 +47,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Program_On" />
+        <Component Name="Process_on" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="24" />

@@ -48,7 +48,7 @@
         <AttributeList>
           <DataTypeName>Bool</DataTypeName>
           <LogicalAddress>%Q0.0</LogicalAddress>
-          <Name>Program_On</Name>
+          <Name>Process_on</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="8" CompositionName="Comment">
