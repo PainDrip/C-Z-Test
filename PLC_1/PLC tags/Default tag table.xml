@@ -82,6 +82,25 @@
           </MultilingualText>
         </ObjectList>
       </SW.Tags.PlcTag>
+      <SW.Tags.PlcTag ID="D" CompositionName="Tags">
+        <AttributeList>
+          <DataTypeName>Bool</DataTypeName>
+          <LogicalAddress>%Q100.1</LogicalAddress>
+          <Name>Complete_Program_1</Name>
+        </AttributeList>
+        <ObjectList>
+          <MultilingualText ID="E" CompositionName="Comment">
+            <ObjectList>
+              <MultilingualTextItem ID="F" CompositionName="Items">
+                <AttributeList>
+                  <Culture>en-US</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+            </ObjectList>
+          </MultilingualText>
+        </ObjectList>
+      </SW.Tags.PlcTag>
     </ObjectList>
   </SW.Tags.PlcTagTable>
 </Document>
